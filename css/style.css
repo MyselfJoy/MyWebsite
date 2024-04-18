@@ -9785,13 +9785,13 @@ input:checked + label .description1 {
 }
 
 .card1[for="c1"] {
-    background-image: url(../image\ \(6\).png);
+    background-image: url(../image_1.png);
 }
 .card1[for="c2"] {
     background-image: url(../image\ \(1\).png);
 }
 .card1[for="c3"] {
-    background-image: url(../image\ \(2\).png);
+    background-image: url(../image_1.png);
 }
 .card1[for="c4"] {
     background-image: url(../image\ \(3\).png);
@@ -9801,4 +9801,8 @@ input:checked + label .description1 {
 }
 .card1[for="c6"] {
     background-image: url(../image\ \(7\).png);
+}
+#joss{
+  text-decoration: none;
+  color: white;
 }
